@@ -1,0 +1,11 @@
+{
+  "name": "dosvazi",
+  "version": "16.13.1",
+  "description": "g",
+  "main": "index.js",
+  "scripts": {
+    "test": "g"
+  },
+  "author": "",
+  "license": "ISC"
+}
