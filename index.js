@@ -1,7 +1,6 @@
 const mineflayer = require('mineflayer')
 const sleep = ms => new Promise((resolve) => setTimeout(resolve, ms))
 const inventoryViewer = require('mineflayer-web-inventory')
-const Discord = require('discord.js');
 const client = new Discord.Client();
 const bot = mineflayer.createBot({
   host: 'mstnw.net', // minecraft server ip
